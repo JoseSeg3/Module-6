@@ -1,0 +1,16 @@
+Jose Segura Module 6 questions 
+
+
+1. AWT being independent means that it can run on any OS without any issues. It's desirable to use because it keeps costs down and people can have a
+consistent experience on any device. 
+
+2. Java running on a virtual machine means that it uses a virtual machine called a JVM which is an isolated spot for the program to run.
+It has a benefit of memory management from when you close out the program it frees up space and also since its compiled with bytecode
+its all encapsulated in javas idea of write once, run anywhere.
+
+3. The object is always on top because it ensures all objects share common characteristics, it also helps with polymorphism which is used for inheritance to help with redundant code.
+
+4. A java package is used to group related classed like a folder
+
+5. An event is a change of an object that is triggered by actions we do like clicking the mouse or pressing buttons on a keyboard. A good example of this is 
+when we hit the X button to close something.
